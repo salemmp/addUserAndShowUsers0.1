@@ -13,9 +13,5 @@
     }else{
         echo "usuario registrado";
     }
-    ##################################
-    # a partir de aqui el codigo es para obtener info de la base y mostrarla en forma de tabla
-
-   
-
+ 
 ?>
