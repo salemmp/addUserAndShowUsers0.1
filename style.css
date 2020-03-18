@@ -1,0 +1,11 @@
+#tabla{
+    margin:2px;
+    width: 25%;
+    border-style: solid;
+}
+#boton{
+    width: 20%;
+    height: 50%;
+    box-sizing: inherit;
+    
+}
